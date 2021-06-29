@@ -1,2 +1,2 @@
 # BlackListForSchoolGroup
-A Blacklist For School's Groups
+一个主要功能为云端黑名单的机器人插件
