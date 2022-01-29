@@ -1,2 +1,2 @@
-# BlackListForSchoolGroup
-一个主要功能为云端黑名单的机器人插件
+# BlackList
+一个面向群、服务器等的黑名单功能
